@@ -1,0 +1,11 @@
+# Nếu dùng Java:
+target/
+.idea/
+*.class
+# Nếu dùng Node.js:
+node_modules/
+.env
+# Nếu dùng Laravel / PHP:
+/vendor/
+/node_modules/
+/.env
